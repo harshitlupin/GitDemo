@@ -5,6 +5,7 @@ for (let i = 0; i < n; i++) {
     string += "*";
   }
   sdfdsfds;
+  hjkhjjjnjllljj;
   string += "\n";
 }
 console.log(string);
